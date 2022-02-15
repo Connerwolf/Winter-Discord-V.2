@@ -7,9 +7,7 @@ A Discord Bot under development
 
 `Features:`
 * Can provide your server with Memes
-* Latest Addition of Music into the bot
 * Moderation abitlities
-* Server Member join/leave logs
 * More under Work In Progress
 
 ## Info
